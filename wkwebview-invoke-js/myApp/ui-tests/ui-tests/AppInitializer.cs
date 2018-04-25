@@ -35,7 +35,7 @@ namespace uitests
                 .iOS
                 // TODO: Update this path to point to your iOS app and uncomment the
                 // code if the app is not included in the solution.
-                .AppBundle ("../../../../platforms/ios/build/emulator/myApp.app")
+                .AppBundle ("../../../../apps/myApp.app")
                 .StartApp();
         }
     }
